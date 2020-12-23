@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GameOfLifeFX">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/GameOfLifeFX.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
